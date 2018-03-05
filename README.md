@@ -1,0 +1,2 @@
+# wendyjquery_practice
+JQUERY PRACTICE WITH JQUERY LIBRARY
